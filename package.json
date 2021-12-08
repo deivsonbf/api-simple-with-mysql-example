@@ -8,7 +8,7 @@
     "dev": "cross-env NODE_ENV=development nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Deivson Bezerra Ferreira - https://github.com/deivsonbf",
   "license": "ISC",
   "dependencies": {
     "cross-env": "^7.0.3",
